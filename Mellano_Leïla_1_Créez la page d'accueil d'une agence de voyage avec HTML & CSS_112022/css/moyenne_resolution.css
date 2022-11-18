@@ -1,0 +1,155 @@
+/*header*/
+
+header img {
+    height: 17px;
+}
+
+header nav a {
+    font-size: 15px;
+    padding: 35px 5px;
+}
+
+/*filtres*/
+
+.recherche #location {
+    height: 40px;
+}
+
+#rechercher {
+    height: 40px;
+}
+
+#entete {
+    height:auto;
+    margin: 40px 0;
+}
+
+#entete h1 {
+    font-size: 20px;
+}
+
+#entete p {
+    font-size: 14px;
+}
+
+#filtres div{
+    margin: 0;
+}
+
+.etiquette a {
+    font-size: 14px;
+}
+/*hebergements*/
+
+#hebergements {
+    display: flex;
+    flex-direction: column;
+    font-size: 9px;
+}
+
+#hebergements h2 {
+    font-size: 20px;
+}
+
+.star {
+    font-size: 10px;
+}
+
+#hebergements h3{
+    font-size: 13px;
+    line-height: normal;
+}
+
+
+/*hebergements populaires*/
+
+#hebergements_populaires {
+    margin-top: 10%;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+#hebergements_populaires p{
+    font-size: 11px;
+    margin: 0;
+}
+
+#hebergements_populaires h2{
+    margin: 4% 0 0 0;
+}
+
+#hebergements_populaires_hotels {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 3%;
+}
+
+#hebergements_populaires .card a {
+    width: 210px;
+    min-width: auto;
+    height: 120px;
+    margin: 4% 0;
+    padding: 2%;
+}
+
+#hebergements_populaires img {
+    width: 80px;
+    height: 110px;
+}
+
+/*hebergements marseille*/
+
+#hebergements_marseille {
+    width: 100%;
+}
+
+#hebergements_marseille_afficher {
+    font-size: 15px;
+}
+
+#hebergements_hotels .card {
+    width: 30%;
+    min-width: auto;
+    padding: 4px 4px 0 4px;
+}
+
+#hebergements_hotels img {
+    height: 100px;
+}
+
+/*activites*/
+
+#activites_marseille {
+    margin: 40px 0;
+}
+
+#activites_marseille h2 {
+    font-size: 20px;
+}
+
+#activites h3 {
+    font-size: 11px;
+}
+
+#activites article{
+    height: 320px;
+}
+
+#activites img {
+    height: 275px;
+}
+
+
+/*footer*/
+
+footer{
+    padding: 1% 5% 3% 5%;
+}
+
+footer h3 {
+    font-size: 15px;
+}
+
+footer p {
+    font-size: 11px;
+}
