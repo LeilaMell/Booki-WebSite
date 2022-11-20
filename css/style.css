@@ -261,7 +261,7 @@ input {
     display: flex;
     background-color: white;
     width: 85%;
-    height: 175px;
+    height: 145px;
     border-radius: 20px;
     padding: 1%;
     margin: 30px auto;
@@ -281,7 +281,7 @@ input {
 
 #hebergements_populaires img {
     border-radius: 20px 0 0 20px;
-    width: 100%;
+    width: 130px;
     height: 100%;
     object-fit: cover;
 }
